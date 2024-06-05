@@ -1,8 +1,8 @@
-# Hospital Management System
+# HealthHub : Hospital Management System
 
 ## Overview
 
-The Hospital Management System (HMS) is a Java-based application designed to manage hospital operations such as patient registration, doctor management, and appointment scheduling. It uses JDBC (Java Database Connectivity) to interact with a MySQL database for data storage and retrieval.
+The HealthHub is a Java-based application designed to manage hospital operations such as patient registration, doctor management, and appointment scheduling. It uses JDBC (Java Database Connectivity) to interact with a MySQL database for data storage and retrieval.
 
 ## Features
 
